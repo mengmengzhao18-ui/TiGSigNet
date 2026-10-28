@@ -1,6 +1,6 @@
 # TiGSigNet
 
-离线手写签名验证源码。
+Source code for TiGSigNet: Token-interaction Graph Signature Network for Offline Signature Verification
 
 ## 安装
 
