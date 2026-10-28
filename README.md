@@ -10,8 +10,22 @@
 
 ## Visualization
 
+### Signature Graphs
+
 <p align="center">
-  <img src="assets/graph-construction.png" width="760" alt="Signature graph visualization">
+  <img src="assets/graph-construction.png" width="760" alt="Signature graph visualization (paper Fig. 6)">
+</p>
+
+### Attention Maps and Token Features
+
+<p align="center">
+  <img src="assets/attention-token-features.png" width="760" alt="Attention maps and token t-SNE visualization (paper Fig. 8)">
+</p>
+
+### Distance Distributions
+
+<p align="center">
+  <img src="assets/distance-distributions.png" width="1000" alt="Genuine and forged pair distance distributions (paper Fig. 7)">
 </p>
 
 ## Installation
