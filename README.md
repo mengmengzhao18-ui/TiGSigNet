@@ -18,8 +18,7 @@ python -m pip install -r requirements.txt
 python train.py --dataset chisig_all --data-root data --device cuda:0 --batch-size 16 --workers 8 --epochs 25 --output-dir checkpoints --run-name chisig_all
 ```
 
-支持的数据集：`cedar`、`bengali`、`hindi`、`gpds`、`chisig_all`。可运行 `python train.py --help` 查看参数。CPU 运行时设置 `--device cpu --workers 0`。
-
+支持的数据集：`cedar`、`bengali`、`hindi`、`gpds`、`chisig_all`。可运行 `python train.py --help` 查看参数。
 ## 测试
 
 ```bash
