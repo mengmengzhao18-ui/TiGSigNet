@@ -10,7 +10,7 @@ Source code for TiGSigNet: Token-interaction Graph Signature Network for Offline
 python -m pip install -r requirements.txt
 ```
 
-将准备好的数据放到 `data/` 目录。数据集和训练权重不包含在本仓库中。
+将准备好的数据放到 `data/` 目录。数据集不包含在本仓库中。
 
 ## 训练
 
